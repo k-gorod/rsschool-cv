@@ -1,0 +1,13 @@
+body{
+    background: -webkit-linear-gradient(-45deg, rgba(83,203,241,1) 0%,rgba(219,242,249,1) 39%,rgba(219,242,249,1) 39%,rgba(154,219,237,1) 49%,rgba(6,130,224,1) 100%) 0 0 fixed;
+}
+.content{
+    color:rgb(0, 89, 255);
+    background: rgba(223,223,223,0.7);
+    font-size: 22px;
+    font-family: cursive;
+    
+}
+.content__photo{
+    
+}
