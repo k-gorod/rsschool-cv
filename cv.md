@@ -1,14 +1,11 @@
-What should a Junior Developer Resume contain?
+My resume
 
-! Important: write your Resume in English if you can, if possible
-
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
+1. Konstantin Gorodnichuk;
+2. coolkostya@gmail.com,
+3. I am just want to be a really good programmer. As soon as possible. Because it is really interesting for me;
+And i will, i know it. But, to progress in that i have to be among programmers, in real projects. I am understand it now, and that's why i am here;
+4. A little bit Java(OOP)(it was in school, like a hobby),and now JS(clean+react),html,css(scss);
+5. I never had before GitHub, or something like that;
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
